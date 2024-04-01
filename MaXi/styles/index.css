@@ -1,0 +1,29 @@
+:root {
+    --color-white: #FFFFFF;
+    --color-black: #2d3436;
+    --color-gray-64: #5C5C5C;
+    --color-gray-48: #858585;
+    --color-gray-32: #ADADAD;
+    --color-gray-24: #C2C2C2;
+
+    --color-accent-1: #C1C1C1; /* точки и иконки*/
+    --color-accent-2: #7565EE; /* фон*/
+    --color-accent-3: #3C0078; /* иконки */
+    --color-purple-dark: #6C5CE7; /*кнопки*/
+    --color-purple-light: #A29BFE;
+
+    --font-family-b: InterB, sans-serif;
+	--font-family-m: InterM, sans-serif;
+	--font-family-r: InterR, sans-serif;
+	--font-family-l: InterL, sans-serif;
+
+    --animation-speed: .3s;
+	--animation-func: ease;
+	--animation: var(--animation-speed) var(--animation-func);
+
+
+}
+
+body {
+	margin: 0;
+}
